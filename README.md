@@ -1,2 +1,0 @@
-# Desafio
-desafios platzi
